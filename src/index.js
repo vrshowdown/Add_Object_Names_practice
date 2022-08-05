@@ -13,8 +13,6 @@ function createObject() {
   console.log(letters);
 }
 
-createObject();
-
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
  Display  Object  with  property name using each letter.
@@ -24,3 +22,4 @@ Each propertie's value will display the number of times That propery  was shown 
 <div>
 </div>
 `;
+createObject();
