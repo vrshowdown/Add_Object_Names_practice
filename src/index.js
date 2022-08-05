@@ -2,8 +2,8 @@ import "./styles.css";
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
  Display  Object  with  property name using each letter.
-Each propertie's value will display the number of times That propery  was shown in the array
-  Example: {a:1,b3,c5..etc}  then console.log the result
+Each propertie's value will display the number of times That property's name  was shown in the array of strings
+  Example of  result: {a:1,b3,c5..etc}  then console.log the result
 </div>
 <div>
 </div>
